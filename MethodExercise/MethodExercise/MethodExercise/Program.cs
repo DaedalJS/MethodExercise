@@ -67,7 +67,7 @@ namespace MethodExercise
             Console.WriteLine($"Subtraction results = {sub}");
 
             int div = Divide(x, y);
-            if (y = 0)
+            if (y == 0)
             {
                 Console.WriteLine("You tried to divide by zero.");
             }
