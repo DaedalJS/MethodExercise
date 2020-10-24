@@ -1,0 +1,13 @@
+C:\Users\HolyK\Desktop\GitRepos\MethodExercise\MethodExercise\MethodExercise\MethodExercise\bin\Debug\netcoreapp3.1\MethodExercise.exe
+C:\Users\HolyK\Desktop\GitRepos\MethodExercise\MethodExercise\MethodExercise\MethodExercise\bin\Debug\netcoreapp3.1\MethodExercise.deps.json
+C:\Users\HolyK\Desktop\GitRepos\MethodExercise\MethodExercise\MethodExercise\MethodExercise\bin\Debug\netcoreapp3.1\MethodExercise.runtimeconfig.json
+C:\Users\HolyK\Desktop\GitRepos\MethodExercise\MethodExercise\MethodExercise\MethodExercise\bin\Debug\netcoreapp3.1\MethodExercise.runtimeconfig.dev.json
+C:\Users\HolyK\Desktop\GitRepos\MethodExercise\MethodExercise\MethodExercise\MethodExercise\bin\Debug\netcoreapp3.1\MethodExercise.dll
+C:\Users\HolyK\Desktop\GitRepos\MethodExercise\MethodExercise\MethodExercise\MethodExercise\bin\Debug\netcoreapp3.1\MethodExercise.pdb
+C:\Users\HolyK\Desktop\GitRepos\MethodExercise\MethodExercise\MethodExercise\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.csprojAssemblyReference.cache
+C:\Users\HolyK\Desktop\GitRepos\MethodExercise\MethodExercise\MethodExercise\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.AssemblyInfoInputs.cache
+C:\Users\HolyK\Desktop\GitRepos\MethodExercise\MethodExercise\MethodExercise\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.AssemblyInfo.cs
+C:\Users\HolyK\Desktop\GitRepos\MethodExercise\MethodExercise\MethodExercise\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.csproj.CoreCompileInputs.cache
+C:\Users\HolyK\Desktop\GitRepos\MethodExercise\MethodExercise\MethodExercise\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.dll
+C:\Users\HolyK\Desktop\GitRepos\MethodExercise\MethodExercise\MethodExercise\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.pdb
+C:\Users\HolyK\Desktop\GitRepos\MethodExercise\MethodExercise\MethodExercise\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.genruntimeconfig.cache
